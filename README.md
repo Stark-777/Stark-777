@@ -1,23 +1,75 @@
-# 👋 Hi there, I'm Alex – Senior QA Automation Engineer
+# 👋 Hi, I'm Alex
 
-🚀 Passionate about building robust, scalable test automation frameworks and leveling up QA teams through clean code and DevOps integration.
+Cybersecurity-focused engineer with a strong background in automation, APIs, and system-level testing.
 
-💼 **Current Focus:**  
-- Building test frameworks with **Playwright + JavaScript**  
-- Integrating tests with **CI/CD pipelines (GitHub Actions)**  
-- Exploring **AI & ML** applications in Quality Engineering  
-
-🛠️ **Tech Stack**  
-`Java` `JavaScript` `TypeScript` `Playwright` `Selenium` `Jasmine` `Axios` `Docker` `GitHub Actions` `CI/CD` `Kubernetes`
-
-🧪 **Highlighted Projects**  
-- 📦 `playwright-ui-api-e2e` – Complete test automation framework w/ POM, REST API tests, HTML reports, and CI setup  
-- 🔄 `github-actions-testing` – Real-world example of CI pipelines testing in GitHub Actions  
-- 📊 `data-quality-automation` – Validating Snowflake queries & API data accuracy  
-
-📫 **Let’s Connect**  
-- LinkedIn: [alex-starik-qa] (https://www.linkedin.com/in/alex-starik-qa/)
+I build tools and projects that focus on **application security, API security, and automated detection of vulnerabilities**.
 
 ---
 
-💡 “QA is not just testing. It's building confidence in software—automated, intelligent, and scalable.”
+## 🔐 Focus Areas
+
+- Application Security (AppSec)
+- API Security & OWASP Top 10
+- Security Automation & Tooling
+- Vulnerability Detection & Validation
+- Secure System Design Mindset
+
+---
+
+## 🛠️ Technical Skills
+
+**Security & Concepts**
+`OWASP Top 10` `API Security` `Authentication` `Authorization` `Input Validation` `Data Exposure`  
+
+**Engineering**
+`JavaScript` `TypeScript` `Java`  
+`REST APIs` `OpenAPI` `CLI Tools`  
+
+**Automation & Infrastructure**
+`Docker` `GitHub Actions` `CI/CD` `Kubernetes`  
+`Testing Automation` `Scripting`
+
+---
+
+## 🚀 Projects
+
+### 🔐 API Security Scanner
+CLI-based tool that analyzes API inputs and configurations to identify potential security issues.
+
+Focus:
+- Detecting insecure patterns in APIs
+- Structured vulnerability findings
+- Automation-friendly design
+- JSON / HTML reporting
+
+---
+
+### 🧪 Security-Focused Testing Approach
+Applying automation and testing strategies to identify:
+- Broken authentication flows
+- Missing validation
+- Incorrect access control
+- Risky API behavior
+
+---
+
+## 🎯 Current Direction
+
+Building practical experience toward roles in:
+
+- Application Security (AppSec)
+- Security Automation Engineering
+- Product Security
+- API Security
+
+---
+
+## 📫 Contact
+
+LinkedIn:  
+https://www.linkedin.com/in/alex-starik-qa/
+
+---
+
+> Security is not just about finding bugs.  
+> It is about understanding how systems fail - and building ways to prevent it.
