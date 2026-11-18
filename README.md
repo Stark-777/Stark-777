@@ -33,6 +33,22 @@ I build tools and projects that focus on **application security, API security, a
 
 ## 🚀 Projects
 
+### 🛡️ AI Agent Security Lab
+AI-assisted TypeScript/Fastify portfolio lab exploring how application security controls constrain unsafe agent actions in a multi-tenant support system.
+
+Focus:
+- Tenant isolation and conversation ownership checks
+- Tool authorization and containment of instructions hidden in retrieved documents
+- Explicit confirmation, expiry, and replay protection for simulated refunds
+- Reproducible vulnerable and hardened comparisons covering broken authorization and excessive agency
+- 107 functional and security regression tests, with GitHub Actions, Semgrep, CodeQL, Trivy, and dependency scanning
+
+Uses synthetic data and a deterministic model adapter. The demonstrations do not involve real payments or measure real-model jailbreak success rates.
+
+[Repository](https://github.com/Stark-777/ai-agent-security-lab) · [Case study](https://github.com/Stark-777/ai-agent-security-lab/blob/main/docs/case-study.md) · [Documented findings](https://github.com/Stark-777/ai-agent-security-lab/blob/main/docs/findings/README.md)
+
+---
+
 ### 🔐 API Security Scanner
 CLI-based tool that analyzes API inputs and configurations to identify potential security issues.
 
