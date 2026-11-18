@@ -67,7 +67,7 @@ Building practical experience toward roles in:
 ## 📫 Contact
 
 LinkedIn:  
-https://www.linkedin.com/in/alex-starik-qa/
+https://www.linkedin.com/in/alex-starik-engineer/
 
 ---
 
